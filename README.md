@@ -1,2 +1,2 @@
 # myblog
-tyr to establish my own blog
+try to establish my own blog
